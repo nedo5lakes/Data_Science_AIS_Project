@@ -1,0 +1,7 @@
+""," created_at","msg_timestamp","position_updated_at","     mmsi","   latitude","  longitude","    speed","    course","   heading","    status","   maneuver"," accuracy","     rot","collection_type"
+"","Length:100        ","Length:100        ","Length:100        ","Min.   :  2190064  ","Min.   :-38.145  ","Min.   :-157.95  ","Min.   : 0.100  ","Min.   :  5.4  ","Min.   : 11.0  ","Min.   : 1.00  ","Min.   :1  ","Mode :logical  ","Min.   :  3.0  ","Length:100        "
+"","Class :character  ","Class :character  ","Class :character  ","1st Qu.:230660315  ","1st Qu.:  3.181  ","1st Qu.: -17.22  ","1st Qu.: 2.792  ","1st Qu.:142.9  ","1st Qu.:235.2  ","1st Qu.: 4.00  ","1st Qu.:1  ","FALSE:48       ","1st Qu.: 81.0  ","Class :character  "
+"","Mode  :character  ","Mode  :character  ","Mode  :character  ","Median :352278647  ","Median : 29.388  ","Median :  12.27  ","Median : 4.814  ","Median :215.0  ","Median :346.0  ","Median : 5.00  ","Median :1  ","TRUE :52       ","Median :114.0  ","Mode  :character  "
+"",NA,NA,NA,"Mean   :345804319  ","Mean   : 23.721  ","Mean   :  23.23  ","Mean   : 4.814  ","Mean   :221.7  ","Mean   :353.0  ","Mean   : 5.67  ","Mean   :1  ",NA,"Mean   :114.3  ",NA
+"",NA,NA,NA,"3rd Qu.:472185675  ","3rd Qu.: 40.977  ","3rd Qu.: 103.50  ","3rd Qu.: 4.814  ","3rd Qu.:299.1  ","3rd Qu.:511.0  ","3rd Qu.: 6.00  ","3rd Qu.:1  ",NA,"3rd Qu.:128.0  ",NA
+"",NA,NA,NA,"Max.   :775990126  ","Max.   : 78.149  ","Max.   : 153.14  ","Max.   :25.300  ","Max.   :360.0  ","Max.   :511.0  ","Max.   :15.00  ","Max.   :1  ",NA,"Max.   :255.0  ",NA
